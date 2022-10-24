@@ -20,7 +20,7 @@ int main()
     if(IMC<16){
         printf("Te va a dar una pajara");
     }else if(IMC<17){
-        printf("Come más");
+        printf("Come mas");
     }else if(IMC<18){
         printf("Come algo");
     }else if(IMC<25){
@@ -28,7 +28,7 @@ int main()
     }else if(IMC<30){
         printf("Huesos anchos");
     }else if(IMC<35){
-        printf("Sobrepeso cronico");
+        printf("Sobrepeso cronico chaval");
     }else if(IMC<41){
         printf("Estas premorbido");
     }else if(IMC>40){
