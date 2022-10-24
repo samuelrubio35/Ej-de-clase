@@ -20,7 +20,7 @@ int main()
     if(IMC<16){
         printf("Te va a dar una pajara");
     }else if(IMC<17){
-        printf("Come más");
+        printf("Come mÃ¡s");
     }else if(IMC<18){
         printf("Come algo");
     }else if(IMC<25){
@@ -34,7 +34,8 @@ int main()
     }else if(IMC>40){
         printf("Cachalote");
     }
-printf("\n");
+    
+     printf("\n");
 
     return 0;
 }
